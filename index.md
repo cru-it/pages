@@ -1,3 +1,15 @@
+---
+permalink: /index
+title: Start
+layout: default
+description: spdofip1
+links: 
+    - name: Projekt1
+      link: /pages/p1
+    - name: Projekt2
+      link: /pages/p2
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cru-it/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

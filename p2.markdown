@@ -1,0 +1,11 @@
+---
+layout: default
+title: Project2
+permalink: /p2
+description: Project2 Desc
+links: 
+    - name: Home
+      link: /pages/index
+---
+
+Project2...
